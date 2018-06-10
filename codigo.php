@@ -9,4 +9,3 @@ if ($correcto == $cable) {
 } else {
     echo 'Perdiste!';
 }
-?>
