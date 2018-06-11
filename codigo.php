@@ -53,4 +53,3 @@ if(@$_GET["stress"])
 }
  
 echo getSize($username);
-?>
